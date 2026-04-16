@@ -29,7 +29,7 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?Marília=maahbas&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?maahbas=maahbas&show_icons=true&theme=dracula)
 
 ---
 
