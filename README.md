@@ -2,9 +2,9 @@
 
 ### 👨‍🏫 Sobre Mim
 - 🎓 Sou aluna do curso de Desenvolvimento de Sistemas na instituição Etec Jardim Angela.
-- 💡 Atualmente estou focada em aprender **[Tecnologia 1]** e **[Tecnologia 2]**.
-- 🎯 Meu objetivo é me tornar um desenvolvedor Fullstack
-- 🌱 No momento, estou desenvolvendo projetos práticos para aplicar meus conhecimentos em lógica e estrutura de dados.
+- 💡 Atualmente estou focada em aprender PhP e Java Script
+- 🎯 Meu objetivo é me tornar um desenvolvedora Fullstack
+- 🌱 No momento, estou desenvolvendo projetos acadêmicos 
 
 ---
 
@@ -25,16 +25,14 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 ### 📂 Meus Principais Projetos
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [Nome do Projeto 1](link-para-o-repositorio) | Breve descrição do que o sistema faz. | HTML, CSS, JS |
-| [Nome do Projeto 2](link-para-o-repositorio) | Sistema de cadastro feito em aula. | PHP, MySQL |
-
+| Cards de Filme https://github.com/maahbas/Cards-PW) | É uma pagina que mostra cards de filme | HTML, CSS|
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?Marília=maahbas&show_icons=true&theme=dracula)
 
 ---
 
 ### 📫 Como me encontrar
-- 📧 Email: [seuemail@provedor.com]
-- 💼 LinkedIn: [link-para-seu-linkedin]
+- 📧 Email: mariliacboliveira@gmail.com
+
