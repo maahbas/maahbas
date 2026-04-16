@@ -1,9 +1,9 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou a Marília!
 
 ### 👨‍🏫 Sobre Mim
-- 🎓 Sou aluno do curso de **[Nome do seu Curso]** na instituição **[Nome da Escola/Faculdade]**.
-- 💡 Atualmente estou focado em aprender **[Tecnologia 1]** e **[Tecnologia 2]**.
-- 🎯 Meu objetivo é me tornar um desenvolvedor **[Frontend / Backend / Fullstack]**.
+- 🎓 Sou aluna do curso de Desenvolvimento de Sistemas na instituição Etec Jardim Angela.
+- 💡 Atualmente estou focada em aprender **[Tecnologia 1]** e **[Tecnologia 2]**.
+- 🎯 Meu objetivo é me tornar um desenvolvedor Fullstack
 - 🌱 No momento, estou desenvolvendo projetos práticos para aplicar meus conhecimentos em lógica e estrutura de dados.
 
 ---
