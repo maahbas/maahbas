@@ -2,7 +2,7 @@
 
 ### 👨‍🏫 Sobre Mim
 - 🎓 Sou aluna do curso de Desenvolvimento de Sistemas na instituição Etec Jardim Angela.
-- 💡 Atualmente estou focada em aprender PhP e Java Script
+- 💡 Atualmente estou focada em aprender PHP e Java Script
 - 🎯 Meu objetivo é me tornar um desenvolvedora Fullstack
 - 🌱 No momento, estou desenvolvendo projetos acadêmicos 
 
